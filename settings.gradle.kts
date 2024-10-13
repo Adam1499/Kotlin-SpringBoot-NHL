@@ -1,1 +1,2 @@
-rootProject.name = "kotlin-springboot-nhl"
+rootProject.name = "Kotlin-SpringBoot-NHL"
+include("backend", "frontend")
